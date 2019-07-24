@@ -1,0 +1,6 @@
+C:\Users\User\Source\Workspaces\YapGetir\YapGetirCom\YapGetir.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Source\Workspaces\YapGetir\YapGetirCom\YapGetir.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Source\Workspaces\YapGetir\YapGetirCom\YapGetir.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Source\Workspaces\YapGetir\YapGetirCom\YapGetir.UI.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Source\Workspaces\YapGetir\YapGetirCom\YapGetir.UI.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Source\Workspaces\YapGetir\YapGetirCom\YapGetir.UI.MVC\bin\roslyn\VBCSCompiler.exe
